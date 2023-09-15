@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/location"
+        android:title="@string/title_shop" />
+
+    <item
+        android:id="@+id/navigation_gifts"
+        android:icon="@drawable/plus"
+        android:title="@string/title_gifts" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/menu"
+        android:title="@string/title_cart" />
+
+</menu>
